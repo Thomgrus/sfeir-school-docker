@@ -12,3 +12,10 @@
 ### @thomgrus <!-- .element: class="twitter" -->
 
 ![company](./assets/images/logo_sfeir_bleu_orange.png)
+
+Notes:
+
+* Ingénieur **DevOps** pour le client **Decathlon**
+* Equipe ACDC -> Démarche **agile** pour **CI** et **CD**
+* Docker dans ma vie -> tous les jours
+* Mes passions -> photo & moto
