@@ -74,7 +74,7 @@ Registry privées : gcr.io sur la *GCP*, *Nexus 3*, *Artifactory*, *Docker EE*, 
 
 Exo 1 <!-- .element: class="exo" -->
 
-* Listez les images présentes sur votre machine :
+* Listez les images présentes sur votre machine&nbsp;:
 
 ```docker
 docker image ls
